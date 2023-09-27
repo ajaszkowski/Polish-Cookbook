@@ -1,0 +1,59 @@
+body {
+  font-family: open Verdana, Geneva, Tahoma, sans-serif, serif, sans-serif;
+  font color: #fcfcfc
+  background-color: #ca5555
+}
+
+header {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #db1111;
+  border-top: #0c0b0b;
+}
+
+main {
+  padding: 4rem;
+  text-align: center;
+  background-color: #ee3434;
+}
+
+ul {
+  display: inline-block;
+}
+
+footer {
+  background-color: #d4d4d4;
+  text-align: center;
+  padding: 10px;
+  color: #0c0c0c;
+}
+
+footer {
+  span: vertical
+  align middle
+}
+
+
